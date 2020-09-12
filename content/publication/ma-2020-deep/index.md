@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Cheng Ma
-- Zhenyu Jiang
+- admin
 - Yongming Rao
 - Jiwen Lu
 - Jie Zhou

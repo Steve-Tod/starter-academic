@@ -6,10 +6,13 @@ subtitle: ''
 summary: ''
 authors:
 - Minhyuk Sung
-- Zhenyu Jiang
+- admin
 - Panos Achlioptas
 - Niloy J. Mitra
 - Leonidas J. Guibas
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 tags: []
 categories: []
 date: '2020-11-17'

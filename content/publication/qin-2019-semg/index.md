@@ -6,11 +6,14 @@ title: Semg-based tremor severity evaluation for parkinson's disease using a lig
 subtitle: ''
 summary: ''
 authors:
-- Zengyi Qin*
-- Zhenyu Jiang*
+- Zengyi Qin
+- admin
 - Jiansheng Chen
 - Chunhua Hu
 - Yu Ma
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 tags: []
 categories: []
 date: '2019-01-01'
