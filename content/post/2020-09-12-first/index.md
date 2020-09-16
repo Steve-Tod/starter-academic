@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "First post"
+title: "Principle"
 subtitle: ""
 summary: ""
 authors: []
@@ -28,4 +28,4 @@ image:
 projects: []
 ---
 
-Hi, this is my first post!
+People don’t buy what you do; they buy why you do it. And what you do simply proves what you believe.
