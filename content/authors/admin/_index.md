@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include computer vision and robotics.
 
 interests:
-- Machine Learning
+- Computer Graphics
 - Computer Vision
-- Robotics
+- Machine Learning
 
 education:
   courses:
@@ -65,4 +65,4 @@ email: ""
 user_groups: []
 ---
 
-Hi! I’m Zhenyu Jiang (江振宇), a PhD student in Computer Science at University of Texas, supervised by [Yuke Zhu](https://www.cs.utexas.edu/~yukez/). I received my B.E. from Tsinghua University, working with [Jiansheng Chen](https://jschenthu.weebly.com/) and [Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/). I study computer vison, machine learning and robotics. In summer 2019, I had a great time working on learning deformation space as a intern at [Guibas lab](https://geometry.stanford.edu/), Stanford University.
+Hi! I’m Zhenyu Jiang (江振宇), a PhD student in Computer Science at University of Texas, supervised by [Yuke Zhu](https://www.cs.utexas.edu/~yukez/). I received my B.E. from Tsinghua University. I study computer graphics, computer vison and machine learning.
