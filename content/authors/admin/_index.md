@@ -65,4 +65,4 @@ email: ""
 user_groups: []
 ---
 
-Hi! I’m Zhenyu Jiang (江振宇), a PhD student in Computer Science at University of Texas, supervised by [Yuke Zhu](https://www.cs.utexas.edu/~yukez/). I received my B.E. from Tsinghua University. I study computer graphics, computer vison and machine learning.
+Hi! I’m Zhenyu Jiang (江振宇), a PhD student in Computer Science at University of Texas, advised by [Yuke Zhu](https://www.cs.utexas.edu/~yukez/). I received my B.E. from Tsinghua University. I study computer vision and robotics.

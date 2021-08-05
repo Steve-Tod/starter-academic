@@ -23,10 +23,10 @@
   url = "#publications"
   weight = 40
 
-[[main]]
-  name = "Resume"
-  url = "files/cv.pdf"
-  weight = 50
+# [[main]]
+#   name = "Resume"
+#   url = "files/cv.pdf"
+#   weight = 50
 
 # [[main]]
 #   name = "Contact"
