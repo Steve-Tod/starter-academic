@@ -21,9 +21,8 @@ organizations:
 bio: My research interests include computer vision and robotics.
 
 interests:
-- Computer Graphics
 - Computer Vision
-- Machine Learning
+- Robotics
 
 education:
   courses:
