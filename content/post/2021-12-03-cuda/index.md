@@ -121,3 +121,5 @@ Finally, we add read permission to all users:
 ```Bash
 chmod a+r -R /mnt/data2/cuda-10.1/
 ```
+
+Most content of the post comes from [this one](https://www.fatalerrors.org/a/installation-of-cuda10.1-and-cudnn-for-non-root-users-of-ubuntu.html).
