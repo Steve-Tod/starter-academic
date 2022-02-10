@@ -34,7 +34,7 @@ UTBox is a campus-wide service that allows faculty, staff, and students at the U
 
 UTBox can be accessed via [https://utexas.box.com](https://utexas.box.com) or from [https://utbox.utexas.edu](https://utexas.box.com).
 
-By default, faculty, staff and student users are provisioned accounts with **no quota limits**, althought it only supports a maximum file size of 15 GB for each single file.
+By default, faculty, staff and student users are provisioned accounts with **no quota limits**, althought it only supports a maximum file size of 50 GB for each single file.
 
 # How to use it
 
